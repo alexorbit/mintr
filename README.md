@@ -1,5 +1,5 @@
 [![CircleCI](https://circleci.com/gh/Synthetixio/synthetix-mintr.svg?style=svg)](https://circleci.com/gh/Synthetixio/synthetix-mintr) [![Netlify Status](https://api.netlify.com/api/v1/badges/817f3cc2-ba8e-4d03-8375-00cd0cede28c/deploy-status)](https://app.netlify.com/sites/synthetix-mintr/deploys) [![Discord](https://img.shields.io/discord/413890591840272394.svg?color=768AD4&label=discord&logo=https%3A%2F%2Fdiscordapp.com%2Fassets%2F8c9701b98ad4372b58f13fd9f65f966e.svg)](https://discord.com/channels/521870110441340969/521870110932336651)
-[![Twitter Follow](https://img.shields.io/twitter/follow/shndx.svg?label=shndx&style=social)](https://twitter.com/shndxofficial)
+[![Twitter Follow](https://img.shields.io/twitter/follow/shndxofficial.svg?label=shndxofficial&style=social)](https://twitter.com/shndxofficial)
 
 # SHNDEX Mintr v2
 
