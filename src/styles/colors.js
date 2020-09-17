@@ -28,17 +28,17 @@ export default {
 
 	// darkMode
 	// UI (dark > light):
-	dark1: '#0E0D14',
+	dark1: '#14120d',
 	dark2: '#14131E',
-	dark3: '#1C1A28',
-	dark4: '#262439',
+	dark3: '#28241a',
+	dark4: '#393524',
 	// fonts:
-	dark5: '#9492C4',
-	dark6: '#C2C1E1',
+	dark5: '#c4bc92',
+	dark6: '#e1dec1',
 	// accents:
-	dark7: '#3A3B74',
-	dark8: '#6865A3',
-	dark9: '#E47C87',
+	dark7: '#746b3a',
+	dark8: '#a39865',
+	dark9: '#e4d67c',
 	// shadows:
 	darkShadow1: 'rgba(18, 18, 43, 0.3)',
 };
