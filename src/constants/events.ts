@@ -8,7 +8,7 @@ export const FEEPOOL_EVENTS = {
 };
 
 export const EXCHANGE_EVENTS = {
-	SYNTH_EXCHANGE: 'SynthExchange',
+	SYNTH_EXCHANGE: 'StronghandsExchange',
 };
 
 export const TRANSFER_EVENTS = {
