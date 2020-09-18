@@ -183,7 +183,7 @@ const Landing = ({ currentTheme, walletDetails, updateWalletStatus, setCurrentPa
 						<ButtonTertiaryLabel>{t('button.havingTrouble')}</ButtonTertiaryLabel>
 					</Link>
 					<Link
-						href={`https://www.synthetix.io/uploads/synthetix_litepaper${
+						href={`https://stronghands.exchange/synthetix_litepaper${
 							i18n.language === 'zh-CN' ? '_mandarin' : ''
 						}.pdf`}
 						target="_blank"
@@ -191,7 +191,7 @@ const Landing = ({ currentTheme, walletDetails, updateWalletStatus, setCurrentPa
 						<ButtonTertiaryLabel>{t('button.whatIsSynthetix')}</ButtonTertiaryLabel>
 					</Link>
 					<ExternalLink
-						href={`https://github.com/Synthetixio/synthetix-mintr/releases/tag/v${process.env.REACT_APP_VERSION}`}
+						href={`https://github.com/shndx/dex/releases/tag/v${process.env.REACT_APP_VERSION}`}
 					>
 						<VersionLabel>v{process.env.REACT_APP_VERSION}</VersionLabel>
 					</ExternalLink>
