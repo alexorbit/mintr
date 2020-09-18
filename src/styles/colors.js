@@ -1,14 +1,14 @@
 export default {
 	white: '#FFFFFF',
-	brandGreen: '#10BA97',
-	brandYellow: '#F4C14D',
-	brandBlue: '#5485FF',
+	brandGreen: '#10BA58',
+	brandYellow: '#FFCC00',
+	brandBlue: '#54A9FF',
 	brandRed: '#D94454',
 	brandPurple: '#935DFF',
 
 	// button palette
-	buttonDark: '#5A66F8',
-	buttonLight: '#727CFF',
+	buttonDark: '#ffcc00',
+	buttonLight: '#FFD738',
 
 	buttonLightDisabled: 'rgba(114, 124, 255, 0.3)',
 
@@ -18,11 +18,11 @@ export default {
 	light2: '#484697',
 	light3: '#6F6E98',
 	// UI (dark > light):
-	light4: '#CACAF1',
-	light5: '#E8E7FD',
-	light6: '#F3F3FE',
+	light4: '#F0F0F5',
+	light5: '#FCF9F9',
+	light6: '#F8F8F8',
 	light7: '#FCFCFE',
-	light8: '#F7DADD',
+	light8: '#F5F5F5',
 	// shadows
 	lightShadow1: 'rgba(247, 244, 255, 40)',
 
@@ -30,15 +30,15 @@ export default {
 	// UI (dark > light):
 	dark1: '#14120d',
 	dark2: '#14131E',
-	dark3: '#28241a',
-	dark4: '#393524',
+	dark3: '#222222',
+	dark4: '#393939',
 	// fonts:
-	dark5: '#c4bc92',
-	dark6: '#e1dec1',
+	dark5: '#C7C7C7',
+	dark6: '#E2E2E2',
 	// accents:
-	dark7: '#746b3a',
-	dark8: '#a39865',
-	dark9: '#e4d67c',
+	dark7: '#767676',
+	dark8: '#A0A0A0',
+	dark9: '#E2E2E2',
 	// shadows:
 	darkShadow1: 'rgba(18, 18, 43, 0.3)',
 };
